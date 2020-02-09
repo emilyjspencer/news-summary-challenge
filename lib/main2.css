@@ -1,0 +1,21 @@
+
+
+body {
+  margin: auto;
+  background: linear-gradient(115deg, #b3ffff 0%,#99ddff 100%,#4dffdb);
+  font-family: 'Karma', serif;
+}
+
+h1 {
+  color: rgb(59, 114, 234);
+  text-align: center;
+}
+
+p  {
+  color: rgb(59, 114, 234);
+  text-align: center;
+}
+
+
+
+
