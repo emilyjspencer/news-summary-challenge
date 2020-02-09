@@ -14,10 +14,13 @@
     return this.articles;
   }
 
+  ArticleList.prototype.viewHeadlines = function() {
+    return this.articles[0].headline
+  }
 
-
-  
-  
+  ArticleList.prototype.viewContent = function() {
+    return this.articles[0].content
+  }
 
   exports.ArticleList = ArticleList;
 })(this);
