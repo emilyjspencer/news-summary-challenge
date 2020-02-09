@@ -1,12 +1,4 @@
 
-//function ArticleHeadlineAndContent() {
-  
- //var article = new Article();
- //assert.isTrue(article.headline === "Coronavirus")
- //assert.isTrue(article.content === "Coronavirus deaths increase by 87 in the space of 24 hours")
-//}
-
-//ArticleHeadlineAndContent ();
 
 function ArticleHeadline() {
   var describe = "Displays articles headline";
